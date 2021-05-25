@@ -1,4 +1,6 @@
 
+# Mathematical figures
+
 Mathematical figures I have made, mostly in InkScape. 
 Feel free to use anything you wantm as you please. 
 
