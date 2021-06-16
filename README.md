@@ -19,7 +19,10 @@ These are used to let LaTeX compile the mathematical writing, in order to have i
 This procedure will create two files, filename.pdf file and filename.pdf_tex. These are now ready to be included in you TeX document. To do this, do the following
  - Make sure you have added the graphicx package to your preamble
  - Put both files in a folder in the root directory, called "inkscape_figures" or another name of you choice
- - Add this folder as a graphics path to your document by using the following code in your preamble: \graphicspath{{./inkscape_figures/}}
+ - Add this folder as a graphics path to your document by using the following code in your preamble 
+```
+\graphicspath{{./inkscape_figures/}}
+```
  - Include the files into you document, for example using the following code 
 
 ```
